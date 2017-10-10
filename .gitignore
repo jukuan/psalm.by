@@ -1,0 +1,3 @@
+.idea
+/public_html/vendors/*
+!/public_html/vendors/.gitkeep

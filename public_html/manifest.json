@@ -1,0 +1,21 @@
+{
+  "short_name": "Psalm.By",
+  "name": "Web-Псалтыр",
+  "manifest_version": 0.1,
+  "version": "0.1",
+  "icons": [
+    {
+      "src": "asset/img/litara_p.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "asset/img/litara_p.jpg",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+  ],
+  "start_url": "/?from=homescreen",
+  "display": "standalone",
+  "orientation": "portrait",
+}

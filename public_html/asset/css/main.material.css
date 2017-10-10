@@ -1,0 +1,11 @@
+@import "main.global.css";
+
+.page-content .list-block textarea {
+    height: 68px;
+    border: 1px #eee solid;
+    border-radius: 3px;
+}
+
+.button {
+    border: 1px solid;
+}

@@ -1,0 +1,47 @@
+@import "/vendors/framework7-icons/css/framework7-icons.css";
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+img {
+    max-width: 100%;
+}
+
+img.in-centre {
+    max-width: 65%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.pull-right {
+    float: right;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Merriweather', serif;
+}
+
+.promo-img {
+    max-width: 240px;
+    max-height: 280px;
+}
+
+p.lead {
+    font-size: 16px;
+}
+
+.form textarea.warning,
+.form input.warning {
+    /*outline: 1px solid red;*/
+    box-shadow: 0 0 3px red;
+}

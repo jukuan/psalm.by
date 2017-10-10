@@ -1,0 +1,14 @@
+@import "main.global.css";
+
+.panel .list-block ul {
+    background: transparent;
+}
+
+.panel .list-block ul a,
+.panel .list-block .item-media .f7-icons {
+    color: #fff;
+}
+
+.page-content .list-block .item-title {
+    font-size: 15px;
+}
